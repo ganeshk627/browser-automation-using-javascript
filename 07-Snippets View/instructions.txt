@@ -1,0 +1,15 @@
+==================================================
+Snippets --> Chrome's inbuilt JavaScript editor
+==================================================
+
+Advantages:
+------------
+    1. it has syntax colouring
+    2. it can pretty print the code
+    3. it can add breakpoints to support debugging
+---------------
+Disadvantages:
+---------------
+    1. not as good as the code completion from the Console
+
+==================================================

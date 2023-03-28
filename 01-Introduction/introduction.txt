@@ -1,0 +1,7 @@
+
+
+1. We can write JavaScript in the browser to automate web applications
+2. Browser Based Test Automation Bot - a model based execution script that can run in the browser
+3. We will have to learn HTML, CSS and Javascript to fully automate applications from within the browser
+4. Snippets -
+5. Bookmarklet - code that runs from a bookmark in your browser
